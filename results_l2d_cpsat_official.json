@@ -1,0 +1,443 @@
+{
+  "ta01": {
+    "size": "15x15",
+    "l2d": 2711.0,
+    "spt": 2512.0,
+    "best_rule": 1654.0,
+    "known_best": 1231,
+    "l2d_vs_spt_pct": -7.921974522292993,
+    "l2d_gap_bks_pct": 120.22745735174655
+  },
+  "ta02": {
+    "size": "15x15",
+    "l2d": 2161.0,
+    "spt": 2148.0,
+    "best_rule": 1747.0,
+    "known_best": 1244,
+    "l2d_vs_spt_pct": -0.6052141527001862,
+    "l2d_gap_bks_pct": 73.71382636655949
+  },
+  "ta03": {
+    "size": "15x15",
+    "l2d": 2361.0,
+    "spt": 2422.0,
+    "best_rule": 1722.0,
+    "known_best": 1218,
+    "l2d_vs_spt_pct": 2.518579686209744,
+    "l2d_gap_bks_pct": 93.8423645320197
+  },
+  "ta04": {
+    "size": "15x15",
+    "l2d": 2383.0,
+    "spt": 2219.0,
+    "best_rule": 1870.0,
+    "known_best": 1175,
+    "l2d_vs_spt_pct": -7.390716538981524,
+    "l2d_gap_bks_pct": 102.80851063829788
+  },
+  "ta05": {
+    "size": "15x15",
+    "l2d": 2234.0,
+    "spt": 2479.0,
+    "best_rule": 2060.0,
+    "known_best": 1224,
+    "l2d_vs_spt_pct": 9.883017345703912,
+    "l2d_gap_bks_pct": 82.51633986928104
+  },
+  "ta06": {
+    "size": "15x15",
+    "l2d": 2597.0,
+    "spt": 2438.0,
+    "best_rule": 1779.0,
+    "known_best": 1238,
+    "l2d_vs_spt_pct": -6.521739130434782,
+    "l2d_gap_bks_pct": 109.77382875605817
+  },
+  "ta07": {
+    "size": "15x15",
+    "l2d": 2591.0,
+    "spt": 2252.0,
+    "best_rule": 1752.0,
+    "known_best": 1227,
+    "l2d_vs_spt_pct": -15.053285968028419,
+    "l2d_gap_bks_pct": 111.16544417277913
+  },
+  "ta08": {
+    "size": "15x15",
+    "l2d": 2627.0,
+    "spt": 2125.0,
+    "best_rule": 1742.0,
+    "known_best": 1217,
+    "l2d_vs_spt_pct": -23.623529411764707,
+    "l2d_gap_bks_pct": 115.85866885784716
+  },
+  "ta09": {
+    "size": "15x15",
+    "l2d": 2630.0,
+    "spt": 2352.0,
+    "best_rule": 1819.0,
+    "known_best": 1274,
+    "l2d_vs_spt_pct": -11.819727891156463,
+    "l2d_gap_bks_pct": 106.43642072213501
+  },
+  "ta10": {
+    "size": "15x15",
+    "l2d": 2425.0,
+    "spt": 2333.0,
+    "best_rule": 1637.0,
+    "known_best": 1241,
+    "l2d_vs_spt_pct": -3.9434204886412347,
+    "l2d_gap_bks_pct": 95.40692989524577
+  },
+  "ta11": {
+    "size": "20x15",
+    "l2d": 2798.0,
+    "spt": 2430.0,
+    "best_rule": 1853.0,
+    "known_best": 1361,
+    "l2d_vs_spt_pct": -15.144032921810698,
+    "l2d_gap_bks_pct": 105.58412931667891
+  },
+  "ta12": {
+    "size": "20x15",
+    "l2d": 2783.0,
+    "spt": 3231.0,
+    "best_rule": 1918.0,
+    "known_best": 1367,
+    "l2d_vs_spt_pct": 13.865676261219436,
+    "l2d_gap_bks_pct": 103.58449158741769
+  },
+  "ta13": {
+    "size": "20x15",
+    "l2d": 2456.0,
+    "spt": 2545.0,
+    "best_rule": 1947.0,
+    "known_best": 1342,
+    "l2d_vs_spt_pct": 3.4970530451866404,
+    "l2d_gap_bks_pct": 83.01043219076007
+  },
+  "ta14": {
+    "size": "20x15",
+    "l2d": 2470.0,
+    "spt": 2662.0,
+    "best_rule": 2002.0,
+    "known_best": 1345,
+    "l2d_vs_spt_pct": 7.212622088655146,
+    "l2d_gap_bks_pct": 83.64312267657994
+  },
+  "ta15": {
+    "size": "20x15",
+    "l2d": 2540.0,
+    "spt": 2539.0,
+    "best_rule": 1855.0,
+    "known_best": 1340,
+    "l2d_vs_spt_pct": -0.03938558487593541,
+    "l2d_gap_bks_pct": 89.55223880597015
+  },
+  "ta16": {
+    "size": "20x15",
+    "l2d": 2380.0,
+    "spt": 2799.0,
+    "best_rule": 1823.0,
+    "known_best": 1360,
+    "l2d_vs_spt_pct": 14.969632011432655,
+    "l2d_gap_bks_pct": 75.0
+  },
+  "ta17": {
+    "size": "20x15",
+    "l2d": 2517.0,
+    "spt": 2744.0,
+    "best_rule": 1862.0,
+    "known_best": 1462,
+    "l2d_vs_spt_pct": 8.272594752186588,
+    "l2d_gap_bks_pct": 72.16142270861833
+  },
+  "ta18": {
+    "size": "20x15",
+    "l2d": 2491.0,
+    "spt": 2795.0,
+    "best_rule": 2009.0,
+    "known_best": 1396,
+    "l2d_vs_spt_pct": 10.876565295169947,
+    "l2d_gap_bks_pct": 78.43839541547278
+  },
+  "ta19": {
+    "size": "20x15",
+    "l2d": 2488.0,
+    "spt": 2758.0,
+    "best_rule": 1764.0,
+    "known_best": 1335,
+    "l2d_vs_spt_pct": 9.789702683103698,
+    "l2d_gap_bks_pct": 86.36704119850187
+  },
+  "ta20": {
+    "size": "20x15",
+    "l2d": 2695.0,
+    "spt": 2633.0,
+    "best_rule": 1848.0,
+    "known_best": 1351,
+    "l2d_vs_spt_pct": -2.3547284466388154,
+    "l2d_gap_bks_pct": 99.48186528497409
+  },
+  "ta21": {
+    "size": "20x20",
+    "l2d": 3300.0,
+    "spt": 2908.0,
+    "best_rule": 2306.0,
+    "known_best": 1644,
+    "l2d_vs_spt_pct": -13.480055020632737,
+    "l2d_gap_bks_pct": 100.72992700729928
+  },
+  "ta22": {
+    "size": "20x20",
+    "l2d": 3466.0,
+    "spt": 3269.0,
+    "best_rule": 2267.0,
+    "known_best": 1600,
+    "l2d_vs_spt_pct": -6.026307739369837,
+    "l2d_gap_bks_pct": 116.625
+  },
+  "ta23": {
+    "size": "20x20",
+    "l2d": 2999.0,
+    "spt": 3123.0,
+    "best_rule": 2173.0,
+    "known_best": 1557,
+    "l2d_vs_spt_pct": 3.970541146333654,
+    "l2d_gap_bks_pct": 92.61400128452152
+  },
+  "ta24": {
+    "size": "20x20",
+    "l2d": 3673.0,
+    "spt": 3359.0,
+    "best_rule": 2260.0,
+    "known_best": 1647,
+    "l2d_vs_spt_pct": -9.348020244120274,
+    "l2d_gap_bks_pct": 123.01153612629024
+  },
+  "ta25": {
+    "size": "20x20",
+    "l2d": 3391.0,
+    "spt": 3337.0,
+    "best_rule": 2228.0,
+    "known_best": 1595,
+    "l2d_vs_spt_pct": -1.6182199580461494,
+    "l2d_gap_bks_pct": 112.60188087774294
+  },
+  "ta26": {
+    "size": "20x20",
+    "l2d": 3482.0,
+    "spt": 2948.0,
+    "best_rule": 2326.0,
+    "known_best": 1645,
+    "l2d_vs_spt_pct": -18.113975576662146,
+    "l2d_gap_bks_pct": 111.67173252279636
+  },
+  "ta27": {
+    "size": "20x20",
+    "l2d": 3171.0,
+    "spt": 3019.0,
+    "best_rule": 2247.0,
+    "known_best": 1680,
+    "l2d_vs_spt_pct": -5.034779728386883,
+    "l2d_gap_bks_pct": 88.75
+  },
+  "ta28": {
+    "size": "20x20",
+    "l2d": 3175.0,
+    "spt": 3227.0,
+    "best_rule": 2305.0,
+    "known_best": 1614,
+    "l2d_vs_spt_pct": 1.6114037806011776,
+    "l2d_gap_bks_pct": 96.71623296158613
+  },
+  "ta29": {
+    "size": "20x20",
+    "l2d": 3955.0,
+    "spt": 3251.0,
+    "best_rule": 2438.0,
+    "known_best": 1635,
+    "l2d_vs_spt_pct": -21.654875422946784,
+    "l2d_gap_bks_pct": 141.8960244648318
+  },
+  "ta30": {
+    "size": "20x20",
+    "l2d": 3366.0,
+    "spt": 2914.0,
+    "best_rule": 2377.0,
+    "known_best": 1584,
+    "l2d_vs_spt_pct": -15.511324639670557,
+    "l2d_gap_bks_pct": 112.5
+  },
+  "abz5": {
+    "size": "10x10",
+    "l2d": 2411.0,
+    "spt": 2161.0,
+    "best_rule": 1462.0,
+    "known_best": 1234,
+    "l2d_vs_spt_pct": -11.568718186024988,
+    "l2d_gap_bks_pct": 95.3808752025932
+  },
+  "abz6": {
+    "size": "10x10",
+    "l2d": 1763.0,
+    "spt": 1626.0,
+    "best_rule": 1200.0,
+    "known_best": 943,
+    "l2d_vs_spt_pct": -8.425584255842558,
+    "l2d_gap_bks_pct": 86.95652173913044
+  },
+  "ft06": {
+    "size": "6x6",
+    "l2d": 77.0,
+    "spt": 85.0,
+    "best_rule": 85.0,
+    "known_best": 55,
+    "l2d_vs_spt_pct": 9.411764705882353,
+    "l2d_gap_bks_pct": 40.0
+  },
+  "ft10": {
+    "size": "10x10",
+    "l2d": 1376.0,
+    "spt": 1395.0,
+    "best_rule": 1395.0,
+    "known_best": 930,
+    "l2d_vs_spt_pct": 1.3620071684587813,
+    "l2d_gap_bks_pct": 47.956989247311824
+  },
+  "ft20": {
+    "size": "20x5",
+    "l2d": 1520.0,
+    "spt": 1809.0,
+    "best_rule": 1599.0,
+    "known_best": 1165,
+    "l2d_vs_spt_pct": 15.97567716970702,
+    "l2d_gap_bks_pct": 30.472103004291846
+  },
+  "la03": {
+    "size": "10x5",
+    "l2d": 962.0,
+    "spt": 1080.0,
+    "best_rule": 736.0,
+    "known_best": 597,
+    "l2d_vs_spt_pct": 10.925925925925926,
+    "l2d_gap_bks_pct": 61.13902847571189
+  },
+  "la04": {
+    "size": "10x5",
+    "l2d": 1029.0,
+    "spt": 932.0,
+    "best_rule": 856.0,
+    "known_best": 590,
+    "l2d_vs_spt_pct": -10.407725321888412,
+    "l2d_gap_bks_pct": 74.40677966101696
+  },
+  "la06": {
+    "size": "15x5",
+    "l2d": 1263.0,
+    "spt": 1291.0,
+    "best_rule": 938.0,
+    "known_best": 926,
+    "l2d_vs_spt_pct": 2.168861347792409,
+    "l2d_gap_bks_pct": 36.39308855291576
+  },
+  "la07": {
+    "size": "15x5",
+    "l2d": 1237.0,
+    "spt": 1271.0,
+    "best_rule": 1040.0,
+    "known_best": 890,
+    "l2d_vs_spt_pct": 2.675059008654603,
+    "l2d_gap_bks_pct": 38.98876404494382
+  },
+  "la08": {
+    "size": "15x5",
+    "l2d": 1202.0,
+    "spt": 1311.0,
+    "best_rule": 1050.0,
+    "known_best": 863,
+    "l2d_vs_spt_pct": 8.314263920671243,
+    "l2d_gap_bks_pct": 39.28157589803013
+  },
+  "la09": {
+    "size": "15x5",
+    "l2d": 1117.0,
+    "spt": 1451.0,
+    "best_rule": 1043.0,
+    "known_best": 951,
+    "l2d_vs_spt_pct": 23.018607856650586,
+    "l2d_gap_bks_pct": 17.455310199789693
+  },
+  "la10": {
+    "size": "15x5",
+    "l2d": 1247.0,
+    "spt": 1480.0,
+    "best_rule": 1018.0,
+    "known_best": 958,
+    "l2d_vs_spt_pct": 15.743243243243244,
+    "l2d_gap_bks_pct": 30.167014613778704
+  },
+  "orb01": {
+    "size": "10x10",
+    "l2d": 1692.0,
+    "spt": 1596.0,
+    "best_rule": 1508.0,
+    "known_best": 1059,
+    "l2d_vs_spt_pct": -6.015037593984962,
+    "l2d_gap_bks_pct": 59.773371104815865
+  },
+  "orb02": {
+    "size": "10x10",
+    "l2d": 1524.0,
+    "spt": 1521.0,
+    "best_rule": 1216.0,
+    "known_best": 888,
+    "l2d_vs_spt_pct": -0.19723865877712032,
+    "l2d_gap_bks_pct": 71.62162162162163
+  },
+  "orb03": {
+    "size": "10x10",
+    "l2d": 1415.0,
+    "spt": 1659.0,
+    "best_rule": 1432.0,
+    "known_best": 1005,
+    "l2d_vs_spt_pct": 14.707655213984328,
+    "l2d_gap_bks_pct": 40.79601990049751
+  },
+  "swv01": {
+    "size": "20x10",
+    "l2d": 2011.0,
+    "spt": 2341.0,
+    "best_rule": 2002.0,
+    "known_best": 1407,
+    "l2d_vs_spt_pct": 14.096539940196498,
+    "l2d_gap_bks_pct": 42.92821606254442
+  },
+  "swv03": {
+    "size": "20x10",
+    "l2d": 2119.0,
+    "spt": 2314.0,
+    "best_rule": 2035.0,
+    "known_best": 1398,
+    "l2d_vs_spt_pct": 8.426966292134832,
+    "l2d_gap_bks_pct": 51.57367668097281
+  },
+  "swv04": {
+    "size": "20x10",
+    "l2d": 2077.0,
+    "spt": 2570.0,
+    "best_rule": 2235.0,
+    "known_best": 1474,
+    "l2d_vs_spt_pct": 19.18287937743191,
+    "l2d_gap_bks_pct": 40.909090909090914
+  },
+  "swv05": {
+    "size": "20x10",
+    "l2d": 2058.0,
+    "spt": 2220.0,
+    "best_rule": 2052.0,
+    "known_best": 1424,
+    "l2d_vs_spt_pct": 7.297297297297297,
+    "l2d_gap_bks_pct": 44.52247191011236
+  }
+}
