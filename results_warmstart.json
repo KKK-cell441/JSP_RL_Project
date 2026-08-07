@@ -1,0 +1,58 @@
+{
+  "ta01": {
+    "no_hint": 1746.0,
+    "hint": 1745.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": 0.057273768613974804
+  },
+  "ta02": {
+    "no_hint": 1756.0,
+    "hint": 1691.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": 3.7015945330296125
+  },
+  "ta03": {
+    "no_hint": 1660.0,
+    "hint": 1630.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": 1.8072289156626504
+  },
+  "ta11": {
+    "no_hint": 2031.0,
+    "hint": 1923.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": 5.317577548005908
+  },
+  "ta12": {
+    "no_hint": 2160.0,
+    "hint": 2129.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": 1.4351851851851851
+  },
+  "ta13": {
+    "no_hint": 1955.0,
+    "hint": 1909.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": 2.3529411764705883
+  },
+  "ta21": {
+    "no_hint": 2439.0,
+    "hint": 2456.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": -0.6970069700697007
+  },
+  "ta22": {
+    "no_hint": 2443.0,
+    "hint": 2457.0,
+    "status_no": "FEASIBLE",
+    "status_hint": "FEASIBLE",
+    "impr_pct": -0.5730659025787965
+  }
+}
