@@ -56,3 +56,7 @@ python run_corrected_official.py hetero_model_l2d.pt results_official_l2d_train.
 
 The teacher schedules can be regenerated from `L2D_official` with the released
 15x15, 20x15, and 20x20 checkpoints.
+
+Large training-state files (`hetero_train_data_l2d.pt`, `hetero_train_data_large.pt`)
+are not committed to GitHub because of file-size limits. They are available from
+the corresponding author on request.
