@@ -1,0 +1,7 @@
+{
+  "instances": 10,
+  "time_limit": 3.0,
+  "states": 4750,
+  "mean_cp_seconds": 2.6602700042724607,
+  "total_cp_seconds": 66.50675010681152
+}
