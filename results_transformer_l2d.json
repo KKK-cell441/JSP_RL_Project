@@ -1,0 +1,443 @@
+{
+  "ta01": {
+    "size": "15x15",
+    "transformer_mk": 1574.0,
+    "spt": 2512.0,
+    "best_rule": 1654.0,
+    "known_best": 1231,
+    "impr_vs_spt": 37.34076433121019,
+    "gap_bks": 27.863525588952072
+  },
+  "ta02": {
+    "size": "15x15",
+    "transformer_mk": 1693.0,
+    "spt": 2148.0,
+    "best_rule": 1747.0,
+    "known_best": 1244,
+    "impr_vs_spt": 21.18249534450652,
+    "gap_bks": 36.09324758842444
+  },
+  "ta03": {
+    "size": "15x15",
+    "transformer_mk": 1722.0,
+    "spt": 2422.0,
+    "best_rule": 1722.0,
+    "known_best": 1218,
+    "impr_vs_spt": 28.901734104046245,
+    "gap_bks": 41.37931034482759
+  },
+  "ta04": {
+    "size": "15x15",
+    "transformer_mk": 1625.0,
+    "spt": 2219.0,
+    "best_rule": 1870.0,
+    "known_best": 1175,
+    "impr_vs_spt": 26.768814781433075,
+    "gap_bks": 38.297872340425535
+  },
+  "ta05": {
+    "size": "15x15",
+    "transformer_mk": 1639.0,
+    "spt": 2479.0,
+    "best_rule": 2060.0,
+    "known_best": 1224,
+    "impr_vs_spt": 33.88463089955627,
+    "gap_bks": 33.90522875816993
+  },
+  "ta06": {
+    "size": "15x15",
+    "transformer_mk": 1465.0,
+    "spt": 2438.0,
+    "best_rule": 1779.0,
+    "known_best": 1238,
+    "impr_vs_spt": 39.909762100082034,
+    "gap_bks": 18.336025848142164
+  },
+  "ta07": {
+    "size": "15x15",
+    "transformer_mk": 1552.0,
+    "spt": 2252.0,
+    "best_rule": 1752.0,
+    "known_best": 1227,
+    "impr_vs_spt": 31.08348134991119,
+    "gap_bks": 26.487367563162184
+  },
+  "ta08": {
+    "size": "15x15",
+    "transformer_mk": 1565.0,
+    "spt": 2125.0,
+    "best_rule": 1742.0,
+    "known_best": 1217,
+    "impr_vs_spt": 26.35294117647059,
+    "gap_bks": 28.594905505341
+  },
+  "ta09": {
+    "size": "15x15",
+    "transformer_mk": 1814.0,
+    "spt": 2352.0,
+    "best_rule": 1819.0,
+    "known_best": 1274,
+    "impr_vs_spt": 22.874149659863946,
+    "gap_bks": 42.3861852433281
+  },
+  "ta10": {
+    "size": "15x15",
+    "transformer_mk": 1845.0,
+    "spt": 2333.0,
+    "best_rule": 1637.0,
+    "known_best": 1241,
+    "impr_vs_spt": 20.917273896270896,
+    "gap_bks": 48.67042707493957
+  },
+  "ta11": {
+    "size": "20x15",
+    "transformer_mk": 2037.0,
+    "spt": 2430.0,
+    "best_rule": 1853.0,
+    "known_best": 1361,
+    "impr_vs_spt": 16.17283950617284,
+    "gap_bks": 49.66936076414401
+  },
+  "ta12": {
+    "size": "20x15",
+    "transformer_mk": 1783.0,
+    "spt": 3231.0,
+    "best_rule": 1918.0,
+    "known_best": 1367,
+    "impr_vs_spt": 44.81584648715568,
+    "gap_bks": 30.431602048280908
+  },
+  "ta13": {
+    "size": "20x15",
+    "transformer_mk": 1842.0,
+    "spt": 2545.0,
+    "best_rule": 1947.0,
+    "known_best": 1342,
+    "impr_vs_spt": 27.622789783889978,
+    "gap_bks": 37.257824143070046
+  },
+  "ta14": {
+    "size": "20x15",
+    "transformer_mk": 1884.0,
+    "spt": 2662.0,
+    "best_rule": 2002.0,
+    "known_best": 1345,
+    "impr_vs_spt": 29.226145755071375,
+    "gap_bks": 40.07434944237918
+  },
+  "ta15": {
+    "size": "20x15",
+    "transformer_mk": 1861.0,
+    "spt": 2539.0,
+    "best_rule": 1855.0,
+    "known_best": 1340,
+    "impr_vs_spt": 26.703426545884206,
+    "gap_bks": 38.88059701492537
+  },
+  "ta16": {
+    "size": "20x15",
+    "transformer_mk": 1704.0,
+    "spt": 2799.0,
+    "best_rule": 1823.0,
+    "known_best": 1360,
+    "impr_vs_spt": 39.12111468381565,
+    "gap_bks": 25.294117647058822
+  },
+  "ta17": {
+    "size": "20x15",
+    "transformer_mk": 1949.0,
+    "spt": 2744.0,
+    "best_rule": 1862.0,
+    "known_best": 1462,
+    "impr_vs_spt": 28.972303206997086,
+    "gap_bks": 33.31053351573187
+  },
+  "ta18": {
+    "size": "20x15",
+    "transformer_mk": 1832.0,
+    "spt": 2795.0,
+    "best_rule": 2009.0,
+    "known_best": 1396,
+    "impr_vs_spt": 34.45438282647585,
+    "gap_bks": 31.23209169054441
+  },
+  "ta19": {
+    "size": "20x15",
+    "transformer_mk": 1856.0,
+    "spt": 2758.0,
+    "best_rule": 1764.0,
+    "known_best": 1335,
+    "impr_vs_spt": 32.70485859318347,
+    "gap_bks": 39.02621722846442
+  },
+  "ta20": {
+    "size": "20x15",
+    "transformer_mk": 1745.0,
+    "spt": 2633.0,
+    "best_rule": 1848.0,
+    "known_best": 1351,
+    "impr_vs_spt": 33.7257880744398,
+    "gap_bks": 29.163582531458175
+  },
+  "ta21": {
+    "size": "20x20",
+    "transformer_mk": 2424.0,
+    "spt": 2908.0,
+    "best_rule": 2306.0,
+    "known_best": 1644,
+    "impr_vs_spt": 16.643741403026134,
+    "gap_bks": 47.44525547445255
+  },
+  "ta22": {
+    "size": "20x20",
+    "transformer_mk": 2310.0,
+    "spt": 3269.0,
+    "best_rule": 2267.0,
+    "known_best": 1600,
+    "impr_vs_spt": 29.336188436830835,
+    "gap_bks": 44.375
+  },
+  "ta23": {
+    "size": "20x20",
+    "transformer_mk": 2074.0,
+    "spt": 3123.0,
+    "best_rule": 2173.0,
+    "known_best": 1557,
+    "impr_vs_spt": 33.58949727825809,
+    "gap_bks": 33.204881181759795
+  },
+  "ta24": {
+    "size": "20x20",
+    "transformer_mk": 2054.0,
+    "spt": 3359.0,
+    "best_rule": 2260.0,
+    "known_best": 1647,
+    "impr_vs_spt": 38.8508484668056,
+    "gap_bks": 24.711596842744385
+  },
+  "ta25": {
+    "size": "20x20",
+    "transformer_mk": 2282.0,
+    "spt": 3337.0,
+    "best_rule": 2228.0,
+    "known_best": 1595,
+    "impr_vs_spt": 31.615223254420137,
+    "gap_bks": 43.07210031347962
+  },
+  "ta26": {
+    "size": "20x20",
+    "transformer_mk": 2157.0,
+    "spt": 2948.0,
+    "best_rule": 2326.0,
+    "known_best": 1645,
+    "impr_vs_spt": 26.831750339213027,
+    "gap_bks": 31.124620060790274
+  },
+  "ta27": {
+    "size": "20x20",
+    "transformer_mk": 2473.0,
+    "spt": 3019.0,
+    "best_rule": 2247.0,
+    "known_best": 1680,
+    "impr_vs_spt": 18.0854587611792,
+    "gap_bks": 47.20238095238095
+  },
+  "ta28": {
+    "size": "20x20",
+    "transformer_mk": 2239.0,
+    "spt": 3227.0,
+    "best_rule": 2305.0,
+    "known_best": 1614,
+    "impr_vs_spt": 30.616671831422376,
+    "gap_bks": 38.72366790582404
+  },
+  "ta29": {
+    "size": "20x20",
+    "transformer_mk": 2114.0,
+    "spt": 3251.0,
+    "best_rule": 2438.0,
+    "known_best": 1635,
+    "impr_vs_spt": 34.97385419870809,
+    "gap_bks": 29.296636085626908
+  },
+  "ta30": {
+    "size": "20x20",
+    "transformer_mk": 2191.0,
+    "spt": 2914.0,
+    "best_rule": 2377.0,
+    "known_best": 1584,
+    "impr_vs_spt": 24.811256005490733,
+    "gap_bks": 38.32070707070707
+  },
+  "abz5": {
+    "size": "10x10",
+    "transformer_mk": 1364.0,
+    "spt": 2161.0,
+    "best_rule": 1462.0,
+    "known_best": 1234,
+    "impr_vs_spt": 36.881073577047665,
+    "gap_bks": 10.53484602917342
+  },
+  "abz6": {
+    "size": "10x10",
+    "transformer_mk": 1069.0,
+    "spt": 1626.0,
+    "best_rule": 1200.0,
+    "known_best": 943,
+    "impr_vs_spt": 34.255842558425584,
+    "gap_bks": 13.361611876988336
+  },
+  "ft06": {
+    "size": "6x6",
+    "transformer_mk": 66.0,
+    "spt": 85.0,
+    "best_rule": 85.0,
+    "known_best": 55,
+    "impr_vs_spt": 22.35294117647059,
+    "gap_bks": 20.0
+  },
+  "ft10": {
+    "size": "10x10",
+    "transformer_mk": 1233.0,
+    "spt": 1395.0,
+    "best_rule": 1395.0,
+    "known_best": 930,
+    "impr_vs_spt": 11.612903225806452,
+    "gap_bks": 32.58064516129032
+  },
+  "ft20": {
+    "size": "20x5",
+    "transformer_mk": 1675.0,
+    "spt": 1809.0,
+    "best_rule": 1599.0,
+    "known_best": 1165,
+    "impr_vs_spt": 7.4074074074074066,
+    "gap_bks": 43.776824034334766
+  },
+  "la03": {
+    "size": "10x5",
+    "transformer_mk": 725.0,
+    "spt": 1080.0,
+    "best_rule": 736.0,
+    "known_best": 597,
+    "impr_vs_spt": 32.870370370370374,
+    "gap_bks": 21.440536013400337
+  },
+  "la04": {
+    "size": "10x5",
+    "transformer_mk": 799.0,
+    "spt": 932.0,
+    "best_rule": 856.0,
+    "known_best": 590,
+    "impr_vs_spt": 14.27038626609442,
+    "gap_bks": 35.42372881355932
+  },
+  "la06": {
+    "size": "15x5",
+    "transformer_mk": 990.0,
+    "spt": 1291.0,
+    "best_rule": 938.0,
+    "known_best": 926,
+    "impr_vs_spt": 23.315259488768397,
+    "gap_bks": 6.911447084233262
+  },
+  "la07": {
+    "size": "15x5",
+    "transformer_mk": 1063.0,
+    "spt": 1271.0,
+    "best_rule": 1040.0,
+    "known_best": 890,
+    "impr_vs_spt": 16.36506687647522,
+    "gap_bks": 19.43820224719101
+  },
+  "la08": {
+    "size": "15x5",
+    "transformer_mk": 1015.0,
+    "spt": 1311.0,
+    "best_rule": 1050.0,
+    "known_best": 863,
+    "impr_vs_spt": 22.578184591914567,
+    "gap_bks": 17.61297798377752
+  },
+  "la09": {
+    "size": "15x5",
+    "transformer_mk": 993.0,
+    "spt": 1451.0,
+    "best_rule": 1043.0,
+    "known_best": 951,
+    "impr_vs_spt": 31.564438318401102,
+    "gap_bks": 4.416403785488959
+  },
+  "la10": {
+    "size": "15x5",
+    "transformer_mk": 978.0,
+    "spt": 1480.0,
+    "best_rule": 1018.0,
+    "known_best": 958,
+    "impr_vs_spt": 33.91891891891892,
+    "gap_bks": 2.0876826722338206
+  },
+  "orb01": {
+    "size": "10x10",
+    "transformer_mk": 1426.0,
+    "spt": 1596.0,
+    "best_rule": 1508.0,
+    "known_best": 1059,
+    "impr_vs_spt": 10.651629072681704,
+    "gap_bks": 34.65533522190746
+  },
+  "orb02": {
+    "size": "10x10",
+    "transformer_mk": 1255.0,
+    "spt": 1521.0,
+    "best_rule": 1216.0,
+    "known_best": 888,
+    "impr_vs_spt": 17.488494411571335,
+    "gap_bks": 41.328828828828826
+  },
+  "orb03": {
+    "size": "10x10",
+    "transformer_mk": 1644.0,
+    "spt": 1659.0,
+    "best_rule": 1432.0,
+    "known_best": 1005,
+    "impr_vs_spt": 0.9041591320072333,
+    "gap_bks": 63.582089552238806
+  },
+  "swv01": {
+    "size": "20x10",
+    "transformer_mk": 2313.0,
+    "spt": 2341.0,
+    "best_rule": 2002.0,
+    "known_best": 1407,
+    "impr_vs_spt": 1.196070055531824,
+    "gap_bks": 64.39232409381663
+  },
+  "swv03": {
+    "size": "20x10",
+    "transformer_mk": 2132.0,
+    "spt": 2314.0,
+    "best_rule": 2035.0,
+    "known_best": 1398,
+    "impr_vs_spt": 7.865168539325842,
+    "gap_bks": 52.5035765379113
+  },
+  "swv04": {
+    "size": "20x10",
+    "transformer_mk": 2298.0,
+    "spt": 2570.0,
+    "best_rule": 2235.0,
+    "known_best": 1474,
+    "impr_vs_spt": 10.583657587548638,
+    "gap_bks": 55.902306648575305
+  },
+  "swv05": {
+    "size": "20x10",
+    "transformer_mk": 2160.0,
+    "spt": 2220.0,
+    "best_rule": 2052.0,
+    "known_best": 1424,
+    "impr_vs_spt": 2.7027027027027026,
+    "gap_bks": 51.68539325842697
+  }
+}
