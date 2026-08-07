@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Editor and OS
+.DS_Store
+Thumbs.db
+~$*
+
+# Cloned third-party benchmark/reference repositories
+FJSP_benchmarks_official/
+L2D_official/
+
+# Local logs
+*.log
+
+# Keep result JSONs and checkpoints tracked for reproducibility.
+# Add patterns below if you later choose to exclude large artifacts.
+hetero_train_data_l2d.pt
