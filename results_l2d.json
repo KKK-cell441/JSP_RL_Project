@@ -1,0 +1,38 @@
+{
+  "101": {
+    "agent": 83.0,
+    "best_heuristic": 77.0,
+    "heuristics": {
+      "FIFO": 89.0,
+      "SPT": 77.0,
+      "LPT": 104.0,
+      "MWKR": 83.0,
+      "LWKR": 77.0
+    },
+    "improvement_pct": -7.792207792207792
+  },
+  "202": {
+    "agent": 70.0,
+    "best_heuristic": 74.0,
+    "heuristics": {
+      "FIFO": 79.0,
+      "SPT": 77.0,
+      "LPT": 83.0,
+      "MWKR": 74.0,
+      "LWKR": 87.0
+    },
+    "improvement_pct": 5.405405405405405
+  },
+  "303": {
+    "agent": 97.0,
+    "best_heuristic": 86.0,
+    "heuristics": {
+      "FIFO": 87.0,
+      "SPT": 86.0,
+      "LPT": 98.0,
+      "MWKR": 91.0,
+      "LWKR": 89.0
+    },
+    "improvement_pct": -12.790697674418606
+  }
+}
