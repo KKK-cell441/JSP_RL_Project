@@ -1,0 +1,40 @@
+{
+  "device": "cpu",
+  "model": "hetero_model_l2d.pt",
+  "parameters": 42178,
+  "size_mb": 0.161,
+  "sizes": {
+    "6x5": {
+      "instances": 10,
+      "total_seconds": 0.727,
+      "decisions": 300,
+      "per_decision_ms": 2.423,
+      "throughput_decisions_per_sec": 412.64,
+      "mean_makespan": 610.5
+    },
+    "10x10": {
+      "instances": 10,
+      "total_seconds": 2.533,
+      "decisions": 1000,
+      "per_decision_ms": 2.533,
+      "throughput_decisions_per_sec": 394.77,
+      "mean_makespan": 1344.2
+    },
+    "15x15": {
+      "instances": 10,
+      "total_seconds": 6.634,
+      "decisions": 2250,
+      "per_decision_ms": 2.948,
+      "throughput_decisions_per_sec": 339.16,
+      "mean_makespan": 2117.1
+    },
+    "20x20": {
+      "instances": 10,
+      "total_seconds": 12.901,
+      "decisions": 4000,
+      "per_decision_ms": 3.225,
+      "throughput_decisions_per_sec": 310.05,
+      "mean_makespan": 2969.8
+    }
+  }
+}
