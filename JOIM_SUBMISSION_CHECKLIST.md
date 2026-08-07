@@ -14,7 +14,7 @@
 
 **Authors:** ZHONGKUAN MA
 
-**Affiliation:** Northeast Forestry University
+**Affiliation:** Northeast Forestry University, Harbin, China
 
 **Corresponding author:** ZHONGKUAN MA, 2024212760@nefu.edu.cn, Northeast Forestry University
 
@@ -32,8 +32,14 @@
 | CPU deployment benchmark | Done | `deployment_cpu_latency.json` |
 | FJSP benchmark | Not done | BRdata/Kacem remain future work |
 | Industrial/semi-real validation | Not done | Required for a strong JOIM submission |
-| Author/title page | Partially done | Author, affiliation, and email added; address/repo still needed |
+| Author/title page | Done | Author, affiliation, email, and address included |
 | Repository URL | Done | https://github.com/KKK-cell441/JSP_RL_Project |
+| Reference style | Done | Numbered references `[n]` |
+| LaTeX template | Draft | `JSP_RL_Paper_L2D_Distill.tex` uses `article`; replace with Springer `sn-jnl` template before submission |
+| Funding | Done | No specific funding |
+| Acknowledgements | Done | No acknowledgements |
+| Author Contributions | Done | ZHONGKUAN MA: conceptualization, methodology, software, experiments, writing |
+| Double-blind | Not required | Author information included in manuscript |
 
 ## Submission Files Checklist (Springer JOIM)
 
