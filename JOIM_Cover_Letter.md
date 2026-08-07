@@ -35,14 +35,14 @@ benchmark scripts are released to support reproducibility.
 This manuscript is original, has not been published previously, and is not
 under consideration elsewhere. All authors have approved the manuscript and
 agree with its submission to Journal of Intelligent Manufacturing. The authors
-declare no conflict of interest.
+declare no conflict of interest. No specific funding was received for this study. No acknowledgements are included.
 
 Thank you for your consideration.
 
 Sincerely,
 
 ZHONGKUAN MA
-Northeast Forestry University
+Northeast Forestry University, Harbin, China
 Email: 2024212760@nefu.edu.cn
 
-Corresponding author: ZHONGKUAN MA, 2024212760@nefu.edu.cn, Northeast Forestry University
+Corresponding author: ZHONGKUAN MA, 2024212760@nefu.edu.cn, Northeast Forestry University, Harbin, China
